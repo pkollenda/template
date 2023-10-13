@@ -3,6 +3,7 @@ To adjust this template to your needs, search and replace 'template'
 with the real repository name and adjust other fields as needed.
 -->
 
+<a name="readme-top"></a>
 <div align="center">
 
   <img height=350 alt="Repo Banner - Awesome Repo Template" src="https://capsule-render.vercel.app/api?type=waving&color=c4a2bd&height=300&section=header&text=Project%20Title&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Easily%20setup%20your%20next%20repo!&descAlignY=60&descAlign=50"></img></a>
@@ -160,6 +161,9 @@ To run this project, you will need to add the following environment variables to
 
 `ANOTHER_API_KEY`
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
@@ -190,6 +194,7 @@ To run tests, run the following command
 ```bash
   npm test test
 ```
+
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -228,6 +233,8 @@ To deploy this project run. Actually, this probably wont work.
   npm deploy
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Usage -->
 ## :eyes: Usage
@@ -243,11 +250,16 @@ function App() {
 }
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Roadmap -->
 ## :compass: Roadmap
 
 * [x] Todo 1
 * [ ] Todo 2
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Contributing -->
@@ -269,6 +281,9 @@ See `contributing.md` for ways to get started.
 <!-- Add a code of conduct if necessary  -->
 Please read the [Code of Conduct](https://github.com/pkollenda/template/blob/main/CODE_OF_CONDUCT.md)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- FAQ -->
 ## :grey_question: FAQ
 
@@ -280,11 +295,15 @@ Please read the [Code of Conduct](https://github.com/pkollenda/template/blob/mai
 
   + Answer 2
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- License -->
 ## :warning: License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Contact -->
@@ -293,6 +312,8 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 Your Name - [@pkollenda](https://twitter.com/pkollenda) - pkollenda@gmail.com
 
 Project Link: [https://github.com/pkollenda/template](https://github.com/pkollenda/template)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Acknowledgments -->
@@ -307,3 +328,5 @@ Use this section to mention useful resources and libraries that you have used in
  - [Best README Template](https://github.com/othneildrew/Best-README-Template)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
