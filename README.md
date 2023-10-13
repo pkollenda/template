@@ -81,10 +81,8 @@ with the real repository name and adjust other fields as needed.
 <!-- Screenshots -->
 ### :camera: Screenshots
 
-[![Product Name Screen Shot][images/screenshot.png]](https://example.com)
-
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="images/screenshot.png" href="https://example.com" alt="screenshot" />
 </div>
 
 
