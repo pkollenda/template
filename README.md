@@ -82,7 +82,7 @@ with the real repository name and adjust other fields as needed.
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="images/screenshot.png" href="https://example.com" alt="screenshot" />
+  <img src="assets/screenshot.png" href="https://example.com" alt="screenshot" />
 </div>
 
 
