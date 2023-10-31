@@ -1,0 +1,13 @@
+*** To use nbdev ***
+- Note that nbdev_new creates a new Readme file which overwrites the nice readme from the template.
+
+# Run in terminal
+conda create -n repo-name python=3.10
+conda activate repo-name 
+conda install -c fastai nbdev
+nbdev_install_quarto
+nbdev_new
+pip install -e '.[dev]'
+
+- First run of notebook need to select correct kernel.
+- Add "_proc" to .gitignore
